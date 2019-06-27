@@ -1,0 +1,3 @@
+git repor 만들기
+git bash 를 사용하여 push, pull 하기
+branch 생성 후 push 하기
